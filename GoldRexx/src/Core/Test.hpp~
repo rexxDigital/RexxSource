@@ -1,0 +1,8 @@
+#include <iostream>
+
+namespace Rexx
+{
+  void printName() {
+    std::cout << "Hello Rexx" << std::endl;
+  }
+}

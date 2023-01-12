@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../bin/libGoldRexx.a CMakeFiles/GoldRexx.dir/src/Core/main.cpp.o
-/usr/bin/ranlib ../bin/libGoldRexx.a

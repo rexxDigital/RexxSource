@@ -4,9 +4,9 @@ set(OpenGL_GL_PREFERENCE GLVND)
 
 project(GoldRexx)
 
-set(LIBRARY_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
+set(LIBRARY_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/lib)
 
-file(GLOB_RECURSE SOURCES "src/*.cpp")
+file(GLOB_RECURSE SOURCES "src/Core/*.cpp")
 
 add_compile_definitions(GLEW_STATIC)
 
