@@ -1,0 +1,8 @@
+# Output
+bin/
+out/
+
+#CMake files
+Makefile
+CMakeCache.txt
+cmake_install.cmake
