@@ -5,4 +5,9 @@ out/
 #CMake files
 Makefile
 CMakeCache.txt
+#main.cpp#
+main.cpp~
+.gitignore~
+CMakeFiles/
+CMakeLists.txt~
 cmake_install.cmake

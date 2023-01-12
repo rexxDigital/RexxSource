@@ -1,5 +1,0 @@
-/home/rexx/Desktop/Projects/goldrexx/CMakeFiles/edit_cache.dir
-/home/rexx/Desktop/Projects/goldrexx/CMakeFiles/rebuild_cache.dir
-/home/rexx/Desktop/Projects/goldrexx/GoldRexx/CMakeFiles/GoldRexx.dir
-/home/rexx/Desktop/Projects/goldrexx/GoldRexx/CMakeFiles/edit_cache.dir
-/home/rexx/Desktop/Projects/goldrexx/GoldRexx/CMakeFiles/rebuild_cache.dir
